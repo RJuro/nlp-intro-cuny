@@ -20,9 +20,9 @@ keywords: "NLP, workshop, Open Education, language processing"
 featured-image: "/images/uidaho-workshop.jpg"
 
 # author settings for cc-by, appears in the footer and credits
-author: evan will
+author: Roman Jurowetzki
 pub_year: 2020
-github_username: evanwill
+github_username: RJuro
 
 # add the full url for the github repository
 repo: "https://github.com/rjuro/nlp-intro-cuny"
