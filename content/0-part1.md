@@ -12,7 +12,8 @@ Session Recording: Pass - same as Zoom pass all lowercase
 
 ## Blackboard Notes
 
- {% pdf "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf" %}
+
+ <embed src="https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf" type="application/pdf"/>
 
 
 
