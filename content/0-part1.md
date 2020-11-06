@@ -8,12 +8,13 @@ topics: string manipulation, frequency counts, bag of words, preprocessing
 Session Recording: Pass - same as Zoom pass all lowercase
 
 ## Session Notebook
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RJuro/nlp-intro-cuny/blob/c6979439d3f1a57d62d0f16b60682be4c78423ee/notebooks/Intro_NLP_PDW.ipynb]
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RJuro/nlp-intro-cuny/blob/c6979439d3f1a57d62d0f16b60682be4c78423ee/notebooks/Intro_NLP_PDW.ipynb)
 
 ## Blackboard Notes
 
 
- <embed src="https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf" type="application/pdf"/>
+
+ <embed src="https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf" wi type="application/pdf" style="width:600" />
 
 
 
