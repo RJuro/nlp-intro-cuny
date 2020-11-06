@@ -10,15 +10,17 @@ nav: Resources
 
 ## Courses
 * [A Code-First Introduction to Natural Language Processing (2019)](https://www.fast.ai/2019/07/08/fastai-nlp/) - application oriented course. Requires some coding skill.
-* [Stanford CS224N: NLP with Deep Learning | Winter 2019](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)
+* [Stanford CS224N: NLP with Deep Learning | Winter 2019](http://web.stanford.edu/class/cs224n/) - course videos on YouTube
 
 ## Libraries and Packages
-* [NLTK](https://www.nltk.org/book/)
-* [SpaCy](https://spacy.io/)
-* [Gensim](https://radimrehurek.com/gensim/)
-* [Textblob](https://textblob.readthedocs.io/en/dev/)
-* [Simple Transformers](https://simpletransformers.ai/)
-* [Sentence Transformers](https://github.com/UKPLab/sentence-transformers)
+* [NLTK](https://www.nltk.org/book/) - Standard library for all traditional NLP work in Python
+* [SpaCy](https://spacy.io/) - modern deep learning based library for many NLP tasks
+* [Gensim](https://radimrehurek.com/gensim/) - library for topic modelling and vectorisation
+* [Textblob](https://textblob.readthedocs.io/en/dev/) - simple library wrapping NLTK ... but simpler
+
+State of the art stuff:
+* [Simple Transformers](https://simpletransformers.ai/) - wrapper for the state of the art architectures
+* [Sentence Transformers](https://github.com/UKPLab/sentence-transformers) - transformer based library to generate sentence representations based on transformer models
 
 ## General Python and DS Training
 
