@@ -51,3 +51,6 @@ defaults:
       layout: "section"
 # Build settings
 markdown: kramdown
+
+plugins:
+  - jekyll-pdf-embed
