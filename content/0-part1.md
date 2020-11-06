@@ -4,6 +4,8 @@ nav: Part 1
 topics: string manipulation, frequency counts, bag of words, preprocessing
 ---
 
+{% include vimeoPlayer.html id=476363212 %}
+
 An excellent lecture by Yoav Goldberg on Industrial NLP today
 {% include video-embed.html youtubeid="e12danHhlic" caption="NLP in Industry today" %}
 
