@@ -13,8 +13,7 @@ Session Recording: Pass - same as Zoom pass all lowercase
 ## Blackboard Notes
 
 
-
- <embed src="https://github.com/RJuro/nlp-intro-cuny/raw/master/images/blackboard.pdf" type="application/pdf" width="600px" height="400px"/>
+ <embed src="https://rjuro.github.io/nlp-intro-cuny/images/blackboard.pdf" type="application/pdf" width="600px" height="400px"/>
 
 
 
