@@ -14,7 +14,7 @@ Session Recording: Pass - same as Zoom pass all lowercase
 
 
 
- <embed src="images/blackboard.pdf" wi type="application/pdf" style="width:600" />
+ <embed src="/images/blackboard.pdf" wi type="application/pdf" style="width:600" />
 
 
 
